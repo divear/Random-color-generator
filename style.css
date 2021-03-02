@@ -1,0 +1,39 @@
+
+.TitleStyle{
+
+font-size: 50px;
+text-align: center;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(200, 243, 229);
+
+}
+.rectStyle{
+    
+    width: 200px;
+    height: 200px;
+    border:rgb(97, 173, 147) 2px solid;
+    
+    top: 9vw;
+    position:absolute;
+    left: 44.5%;
+    
+    
+}
+.NumberText{
+    text-align: center;
+    font-size: 10vw;
+    padding-top: 0px;
+    margin-top: 0vw;
+    bottom: 90%;    
+}
+.ButtonStyle{
+    
+    font-style: italic;
+    font-size: 15px;
+   margin-top: 11vw;
+    width: 10.5vw;
+    height: 30px;
+    background-color: rgb(49, 146, 114);
+}
